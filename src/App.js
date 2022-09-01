@@ -12,13 +12,5 @@ function App() {
   );
 }
 
-
-
-
-
-
-
-//добавить в гит игнор ноде модуле
-
 export default App;
 
